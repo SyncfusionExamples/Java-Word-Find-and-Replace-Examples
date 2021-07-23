@@ -26,6 +26,9 @@ You can download the jars from the Syncfusion [maven repository](https://jars.sy
 
 - [Find and replace several paragraphs in Java](findandreplaceseveralparagraphs/) - Find text that extends to several paragraphs in a Word document and replace it with another Word document.
 
+## Blog reference
+[7 Smart Ways to Find and Replace Text in a Word Document Using Java](https://www.syncfusion.com/blogs/post/find-and-replace-text-in-word-document-using-java.aspx)
+
 ## Screenshots
 
 **Find and highlight text**
