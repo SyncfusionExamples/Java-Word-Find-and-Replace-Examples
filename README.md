@@ -1,10 +1,10 @@
-# Java-Word-Find-and-Replace-Examples
+# Java Word Find and Replace Examples
 
-This repository contains examples that illustrates how to find and replace text in Word documents programmatically in Java using [Syncfusion’s Java Word library](https://www.syncfusion.com/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
+This repository contains examples that illustrates how to find and replace text in Word documents programmatically in Java using [Syncfusion’s Java Word library](https://www.syncfusion.com/document-processing/word-framework/java/word-library?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples) (Essential DocIO) without Microsoft Word or Office interop dependencies.
 
 ## Find and replace text in Word documents using Java
 
-The Syncfusion Java Word library (Essential DocIO) provides comprehensive APIs to find and replace text in a Word document with any desired text, image, hyperlink, paragraph, table, and part of a document or an entire document. It provides options to find text by matching case and whole words. You can find each occurrence one by one or all the occurrences of a text in the document. It saves your efforts and time by helping you to automate find and replace a pattern of text in a Word document using [Regex](https://docs.microsoft.com/en-us/dotnet/api/system.text.regularexpressions.regex). It allows you to save the resultant document as Word document (DOCX, WordML), HTML, RTF.
+The Syncfusion Java Word library (Essential DocIO) provides comprehensive APIs to find and replace text in a Word document with any desired text, image, hyperlink, paragraph, table, and part of a document or an entire document. It provides options to find text by matching case and whole words. You can find each occurrence one by one or all the occurrences of a text in the document. It saves your efforts and time by helping you to automate find and replace a pattern of text in a Word document using Regex. It allows you to save the resultant document as Word document (DOCX, WordML), HTML, RTF.
 
 ## Jar files
 
@@ -51,7 +51,7 @@ You can download the jars from the Syncfusion [maven repository](https://jars.sy
 
 # Resources
 
-- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
+- **Product page:** [Syncfusion Java Word Framework](https://www.syncfusion.com/document-processing/word-framework/java?utm_source=github&utm_medium=listing&utm_campaign=java-create-word-examples)
 
 - **Documentation:** [Find and Replace using Syncfusion Java Word library](https://help.syncfusion.com/java-file-formats/word-library/working-with-find-and-replace)
 
